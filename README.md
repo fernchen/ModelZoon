@@ -5,3 +5,6 @@ Caffe model:
 - Mobilenetv2
 - ssdmobilenet
 - Resnet
+
+Tensorflow model:
+- cartoon
